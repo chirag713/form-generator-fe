@@ -151,48 +151,8 @@ The application uses several configuration files:
 - **Paragraph Field** - Descriptive text blocks
 - **Separator** - Visual section dividers
 
-## 💡 Concept & Ideation
-
-This Form Generator project was conceptualized and envisioned by:
-
-<img src="https://github.com/Bharat1056.png" width="30" height="30"> **[Bharat Panigrahi](https://github.com/Bharat1056)** - Original concept, project vision, and feature planning
-
-
-The idea emerged from the need for a modern, intuitive no-code form builder that combines the simplicity of drag-and-drop interfaces with powerful analytics and response management capabilities.
-
-## 👥 **Collaborators**
-
-We thank the following people who have contributed to this project:
-
-| Avatar | Name | Role | GitHub |
-|--------|------|------|--------|
-| <img src="https://github.com/dharmendra-007.png" width="30" height="30" style="border-radius: 50%"> | [Dharmendra Mahanta](https://github.com/dharmendra-007) | Full Stack Developer | [@dharmendra-007](https://github.com/dharmendra-007)
-| <img src="https://github.com/PSonakshi.png" width="30" height="30" style="border-radius: 50%"> | [Sonakshi Pradhan](https://github.com/PSonakshi) | Frontend Developer | [@PSonakshi](https://github.com/PSonakshi)
-| <img src="https://github.com/Gyannnnn.png" width="30" height="30" style="border-radius: 50%"> | [Gyanranjan Patra](https://github.com/Gyannnnn) | Backend Developer | [@Gyannnnn](https://github.com/Gyannnnn)
-| <img src="https://github.com/subhankar2004.png" width="30" height="30" style="border-radius: 50%"> | [Subhankar Patra](https://github.com/subhankar2004) | Frontend Developer | [@subhankar2004](https://github.com/subhankar2004)
-
-
-*Want to see your name here? Check out the contributing section below!*
-
-## 🤝 **Contributing**
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 **License**
 
 This project is licensed under the MIT License - [**LICENSE**](./LICENSE)
 
-## 🆘 **Support**
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Check the documentation
-- Review existing issues for solutions
-
 ---
-
-Built with 💚 by [**Enigma**](https://enigmavssut.in/) .
