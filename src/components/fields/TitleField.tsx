@@ -162,10 +162,10 @@ function PropertiesComponent({
                 >
                   <option value="default">Default</option>
                   <option value="lg">Large</option>
-                  <option value="xl">Extra Large</option>
-                  <option value="2xl">2X Large</option>
-                  <option value="3xl">3X Large</option>
-                  <option value="4xl">4X Large</option>
+                  <option value="xl">2X Large</option>
+                  <option value="2xl">3X Large</option>
+                  <option value="3xl">4X Large</option>
+                  <option value="4xl">5X Large</option>
                 </select>
               </FormControl>
               <FormDescription>
