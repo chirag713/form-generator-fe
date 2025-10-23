@@ -237,7 +237,7 @@ export default function UnauthenticatedLandingPage() {
 
       {/* Minimal Footer */}
       <footer className="bg-gray-800 border-t border-gray-700 py-8 text-center">
-        <p className="text-gray-500 text-sm">Made by Enigma❤</p>
+        <p className="text-gray-500 text-sm">Made by Dey Bansal Pattnaik Agrawal</p>
       </footer>
     </div>
   );
