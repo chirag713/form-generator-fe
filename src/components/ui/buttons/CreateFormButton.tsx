@@ -124,7 +124,7 @@ function CreateFormButton({
           <DialogHeader>
             <DialogTitle>Create Your Own Form</DialogTitle>
             <DialogDescription>
-              Make changes to your profile here. Click save when you&aposre
+              Make changes to your profile here. Click save when you&apos;re
               done.
             </DialogDescription>
           </DialogHeader>

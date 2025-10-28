@@ -27,7 +27,7 @@ function ErrorPage({ error }: ErrorPageProps) {
           An unexpected error has occurred. Please try again later.
         </p>
         <p className="text-lg md:text-xl text-gray-400">
-          contact admin - enigmavssut.in
+          contact admin - debasishdey.1512@gmail.com
         </p>
 
         {/* You can optionally display the error message for debugging purposes */}

@@ -9,12 +9,6 @@ function getPublishedProp(form: object): boolean {
     ) {
       return (form as { published: boolean }).published;
     }
-    if (
-      "published" in form &&
-      typeof (form as { published: unknown }).published === "boolean"
-    ) {
-      return (form as { published: boolean }).published;
-    }
   }
   return false;
 }
